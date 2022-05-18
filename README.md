@@ -4,7 +4,7 @@ The book is by Benjamin Graham, a well-known American economist and professional
 
 Warren Buffett: Preface to the fourth Edition
 
-I read the first edition of <a href="https://e-book.business/the-intelligent-investor/">The Intelligent Investor PDF</a> book in early 1950, when I was 19 years old. At the time, I thought it was the best investment book ever written. I still think so.
+I read the first edition of <a href="https://the-intelligent-investor.site/">The Intelligent Investor PDF</a> book in early 1950, when I was 19 years old. At the time, I thought it was the best investment book ever written. I still think so.
 
 To achieve success in investing, you do not need a supernaturally high value of the IQ, an unusual approach to doing business or possession of insider information. Success requires a reasonable approach to decision-making and the ability to restrain emotions in order to protect your method from their destructive power. This book accurately and clearly describes the appropriate approach. First of all, you should adhere to emotional discipline.
 
